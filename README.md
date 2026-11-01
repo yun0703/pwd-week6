@@ -132,7 +132,7 @@ git push -u origin main
 패키지 의존성(package.json) 설정
 ```json
 {
-  "name": "pwd-week4",
+  "name": "pwd-week6",
   "version": "1.0.0",
   "private": true,
   "type": "commonjs",
